@@ -1,0 +1,4 @@
+{"schema_version": 2, "id": "E1001", "route": {"line": "42", "station": "Central"}, "timestamps": {"boarded_at": "2026-11-01T08:15:00Z", "received_at": "2026-11-01T08:16:05Z"}, "card": "C001"}
+{"schema_version": 2, "id": "E1002", "route": {"line": "42", "station": "Riverside"}, "timestamps": {"boarded_at": "2026-11-01T08:20:00Z", "received_at": "2026-11-01T08:21:05Z"}, "card": "C002"}
+{"schema_version": 2, "id": "E2001", "route": {"line": "42", "station": "Harbor"}, "timestamps": {"boarded_at": "2026-11-01T08:50:00Z", "received_at": "2026-11-01T08:51:00Z"}, "card": "C005"}
+{"schema_version": 2, "id": "E2002", "route": {"line": "7", "station": "Old Town"}, "timestamps": {"boarded_at": "2026-11-01T09:40:00Z", "received_at": "2026-11-01T09:41:00Z"}, "card": "C001"}

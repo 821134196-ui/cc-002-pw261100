@@ -1,0 +1,3 @@
+{"event_id": "E0901", "line": "42", "station": "Central", "board_time": "2026-10-31 22:10:00", "receive_time": "2026-11-02 06:00:00", "card_id": "C009"}
+{"event_id": "E0902", "line": "7", "station": "Museum", "board_time": "2026-10-31 22:40:00", "receive_time": "2026-11-02 06:00:10", "card_id": "C001"}
+{"schema_version": 2, "id": "E0903", "route": {"line": "42", "station": "Harbor"}, "timestamps": {"boarded_at": "2026-11-01T08:05:00Z", "received_at": "2026-11-02T06:00:20Z"}, "card": "C010"}

@@ -1,0 +1,13 @@
+[project]
+name = "busflow"
+version = "0.1.0"
+description = "Local bus card-swipe event processing tool (JSONL -> Parquet + DuckDB stats)"
+requires-python = ">=3.10"
+dependencies = ["duckdb>=0.10"]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.pytest.ini_options]
+pythonpath = [".", "tests"]
+testpaths = ["tests"]

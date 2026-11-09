@@ -1,0 +1,5 @@
+{"event_id": "E3001", "line": "42", "station": "Central", "board_time": "2026-11-01 10:00:00", "receive_time": "2026-11-01 10:01:00", "card_id": "C020"}
+{"event_id": "E3002", "line": "42", "station": "Central", "board_time": "not-a-time", "receive_time": "2026-11-01 10:01:00"}
+{"event_id": "E3003", "station": "Central", "board_time": "2026-11-01 10:05:00", "receive_time": "2026-11-01 10:06:00"}
+{broken json line
+{"station": "Central", "board_time": "2026-11-01 10:10:00", "receive_time": "2026-11-01 10:11:00"}

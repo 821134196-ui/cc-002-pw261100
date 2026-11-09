@@ -1,0 +1,5 @@
+{"event_id": "E1001", "line": "42", "station": "Central", "board_time": "2026-11-01 08:15:00", "receive_time": "2026-11-01 08:16:05", "card_id": "C001"}
+{"event_id": "E1002", "line": "42", "station": "Central", "board_time": "2026-11-01 08:20:00", "receive_time": "2026-11-01 08:21:05", "card_id": "C002"}
+{"event_id": "E1003", "line": "42", "station": "Riverside", "board_time": "2026-11-01 08:45:00", "receive_time": "2026-11-01 08:46:00", "card_id": "C001"}
+{"event_id": "E1004", "line": "7", "station": "Museum", "board_time": "2026-11-01 09:05:00", "receive_time": "2026-11-01 09:06:10", "card_id": "C003"}
+{"event_id": "E1005", "line": "7", "station": "Museum", "board_time": "2026-11-01 09:20:00", "receive_time": "2026-11-01 09:21:00", "card_id": "C004"}
